@@ -1,4 +1,4 @@
-# 主页：https://ghostdavid.github.io/ <br>
+# 主页：[ghostdavid.github.io](https://ghostdavid.github.io/) <br>
 
 网站模版来源：https://github.com/cotes2020/chirpy-starter<br>
 
