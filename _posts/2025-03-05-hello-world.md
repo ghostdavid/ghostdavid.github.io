@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2025-03-05 18:00:00 +0800
-categories: [test]
+categories: [Blog, test]
 tags: []
 ---
 
