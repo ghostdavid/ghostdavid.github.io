@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Ghost David # the main title
 
-tagline: Welcome to my blog. If you wish to contact me, you can click the email button below.
+tagline: Welcome to my blog. \n If you wish to contact me, you can click the email button below.
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -138,7 +138,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # The option for PWA feature (installable)
   cache:
     enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
