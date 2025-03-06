@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Ghost David # the main title
 
-tagline: Welcome to my blog. <br> If you wish to contact me, you can click the email button below.
+tagline: 欢迎来到我的个人网站 <br> Welcome to my blog
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
