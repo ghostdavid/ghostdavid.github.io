@@ -4,14 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 > ⚠️作者主页：**[ghostdavid.top](https://ghostdavid.top/)**  
-> ⚠️若您发现本站有任何内容若侵犯了您的合法权益，请及时联系我进行删除，举报邮箱：**marl_table67@icloud.com**   
-> ⚠️本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**   
-> ⚠️转载或引用时请遵守许可协议、当地法律法规，注明出处并包含以上所有声明内容，**本站作者拥有所有内容的最终解释权**  
+> ⚠️本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**  
+> ⚠️若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者进行删除  
+> ⚠️转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**  
 
 > If you wish to contact me, you can send email to **marl_table67@icloud.com**
 {: .prompt-tip }
 
-### 好记性不如烂笔头（2025.3）  
+## 好记性不如烂笔头（2025.3）  
 
 在工作中，我是有完整的笔记和知识库来充当的我的第二大脑，出于各方面的考虑，我最终选择的是飞书云文档来保存非公开的笔记，一用就是5年多，一直用到现在。  
 
