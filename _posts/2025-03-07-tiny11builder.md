@@ -5,7 +5,7 @@ categories: [windows]
 tags: [iso,windows,tiny11]
 ---
 
-注：由于文章最初发表于CSDN账号，所以转过来后留有水印，图片都是自己的，并非盗图  
+注：由于文章最初发表于CSDN账号，所以转移过来后图片留有水印
 
 ## 下载最新win11 iso镜像
 
@@ -25,37 +25,37 @@ tags: [iso,windows,tiny11]
 
 在仓库主页中可以看到，tiny11builder精简的软件内容，个人推荐普通精简。另外，精简后的镜像将绕过系统初始化时的Microsoft账户登录
 
->普通精简：
-Clipchamp
-News
-Weather
-Xbox (although Xbox Identity provider is still here, so it should be possible to be reinstalled with no issues)
-GetHelp
-GetStarted
-Office Hub
-Solitaire
-PeopleApp
-PowerAutomate
-ToDo
-Alarms
-Mail and Calendar
-Feedback Hub
-Maps
-Sound Recorder
-Your Phone
-Media Player
-QuickAssist
-Internet Explorer
-Tablet PC Math
-Edge
-OneDrive
+>普通精简：  
+Clipchamp  
+News  
+Weather  
+Xbox (although Xbox Identity provider is still here, so it should be possible to be reinstalled with no issues)  
+GetHelp  
+GetStarted  
+Office Hub  
+Solitaire  
+PeopleApp  
+PowerAutomate  
+ToDo  
+Alarms  
+Mail and Calendar  
+Feedback Hub  
+Maps  
+Sound Recorder  
+Your Phone  
+Media Player  
+QuickAssist  
+Internet Explorer  
+Tablet PC Math  
+Edge  
+OneDrive  
 
->更完全的核心精简（core）：
-all of the above +
-Windows Component Store (WinSxS)
-Windows Defender (only disabled, can be enabled back if needed)
-Windows Update (Windows Update wouldn't work anyway without WinSxS, so enabling it would only put the system in a state where it would try to update but fail spectacularily)
-WinRE
+>更完全的核心精简（core）：  
+all of the above +  
+Windows Component Store (WinSxS)  
+Windows Defender (only disabled, can be enabled back if needed)  
+Windows Update (Windows Update wouldn't work anyway without WinSxS, so enabling it would only put the system in a state where it would try to update but fail spectacularily)  
+WinRE  
 
 ## 开始精简
 
