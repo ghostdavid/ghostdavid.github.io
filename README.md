@@ -1,4 +1,4 @@
-# [ghostdavid.github.io](https://ghostdavid.github.io/) <br>
+# [ghostdavid.top](https://ghostdavid.top/) <br>
 
 网站模板：<br>
 https://github.com/cotes2020/chirpy-starter<br>
