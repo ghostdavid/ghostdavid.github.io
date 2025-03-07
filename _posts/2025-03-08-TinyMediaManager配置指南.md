@@ -15,15 +15,15 @@ tags: [NAS,docker,影视,刮削]
 
 海报墙
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025024420.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025024420.png)
 
 电视剧
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519572.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519572.png)
 
 剧集
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519574.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519574.png)
 
 ### 刮削后文件夹系统展示
 
@@ -31,13 +31,13 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519575.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519575.png)
 
 季文件夹
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519576.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519576.png)
 
 剧集、nfo、缩略图
 
@@ -45,7 +45,7 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519577.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519577.png)
 
 ------
 
@@ -55,7 +55,7 @@ tags: [NAS,docker,影视,刮削]
 
 这个镜像是专门对中文做了字体优化，避免了UI出现乱码方块字
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519578.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519578.png)
 
 ### 下载latest或v3.1.16版本
 
@@ -63,7 +63,7 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519579.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519579.png)
 
 ### 创建容器
 
@@ -71,7 +71,7 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519580.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519580.png)
 
 
 
@@ -79,7 +79,7 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519581.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519581.png)
 
 
 
@@ -89,7 +89,7 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519582.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519582.png)
 
 
 ### 端口
@@ -98,7 +98,7 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519583.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519583.png)
 
 
 
@@ -109,11 +109,11 @@ tags: [NAS,docker,影视,刮削]
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519584.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519584.png)
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519585.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519585.png)
 
 ------
 
@@ -125,7 +125,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519586.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519586.png)
 
 ### 语言设置
 
@@ -133,7 +133,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519587.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519587.png)
 
 ### 电影、电视剧源设置
 
@@ -144,21 +144,21 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519588.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519588.png)
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519589.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519589.png)
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519590.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519590.png)
 
 ### 重启容器
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519591.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519591.png)
 
 ------
 
@@ -168,7 +168,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519592.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519592.png)
 
 
 
@@ -180,7 +180,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519593.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519593.png)
 
 
 
@@ -188,7 +188,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 取消勾选图片快取可以加快载入
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519594.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519594.png)
 
 
 
@@ -202,7 +202,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519595.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519595.png)
 
 
 
@@ -210,7 +210,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519596.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519596.png)
 
 
 
@@ -218,7 +218,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519597.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519597.png)
 
 
 
@@ -226,7 +226,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519598.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519598.png)
 
 
 
@@ -234,7 +234,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519599.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519599.png)
 
 
 
@@ -242,7 +242,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519600.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519600.png)
 
 
 
@@ -254,7 +254,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519601.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519601.png)
 
 
 
@@ -270,7 +270,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519602.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519602.png)
 
 
 
@@ -280,7 +280,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519603.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519603.png)
 
 
 
@@ -288,7 +288,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519604.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519604.png)
 
 
 
@@ -296,4 +296,4 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![](https://jsd.cdn.zzko.cn/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519605.png)
+![](https://testingcf.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io/20250308025519605.png)
