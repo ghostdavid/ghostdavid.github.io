@@ -69,7 +69,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: ed93804f9edf46ad8db701441db3a95b # fill in your Cloudflare Web Analytics token
+    id: 6e2c5f26fba54852851332eb58153b32 # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -95,10 +95,10 @@ theme_mode:  # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:    #https://cdn.jsdelivr.net/gh/ghostdavid/tuchuang@main/ghostdavid.github.io
+cdn:    
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://ghostdavid.top/assets/images/avatar.png
+avatar: https://testingcf.jsdelivr.net/gh/ghostdavid/ghostdavid.github.io@main/assets/images/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
