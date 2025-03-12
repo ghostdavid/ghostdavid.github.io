@@ -29,8 +29,8 @@ plugins:
 
 sitemap:
 #  lastmod: 2014-01-23
-#  priority: 0.7
-#  changefreq: 'daily'
+  priority: 0.7
+  changefreq: 'always'
   exclude: 'yes'
   
 github:
