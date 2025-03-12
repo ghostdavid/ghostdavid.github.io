@@ -10,17 +10,19 @@ order: 4
 
 中国大陆优先访问**个人域名**，如果网站打开比较慢，可以换Cloudflare或Github域名试试，并耐心等待加载，有条件最好能挂上梯子🪜
 
-建站参考教程，注意：**不要直接fork我的项目**：   
-https://github.com/cotes2020/jekyll-theme-chirpy/wiki   
-https://github.com/cotes2020/chirpy-starter   
-https://ghostdavid.pages.dev/categories/build-website   
-https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
-
 > 本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**  
 > 若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者进行删除  
 > 转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**    
 > If you wish to contact me, you can send email to **marl_table67@icloud.com**
 {: .prompt-warning }
+
+网站模板：（**用这个模板创建，不要直接fork我的项目**）    
+https://github.com/cotes2020/chirpy-starter   
+
+建站参考教程：  
+https://github.com/cotes2020/jekyll-theme-chirpy/wiki   
+https://ghostdavid.pages.dev/categories/build-website   
+https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
 
 
 ## 心血来潮（2025.3）  
