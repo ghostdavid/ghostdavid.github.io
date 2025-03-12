@@ -1,10 +1,10 @@
 ## Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)   
-## Cloudflare部署域名：[ghostdavid.page.dev](https://ghostdavid.page.dev)   
+## Cloudflare部署域名：[ghostdavid.pages.dev](https://ghostdavid.pages.dev)   
 ## 个人域名：[ghostdavid.top](https://ghostdavid.top)   
 
-中国大陆优先访问**个人域名**，本项目内所有个人素材和内容按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权
+中国大陆优先访问**个人域名**，本仓库内所有个人素材和内容按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权
    
-网站模板：（**用这个模板创建，不要直接fork我的项目**）    
+网站模板：（**用这个模板去创建，千万不要直接fork我的仓库**）    
 https://github.com/cotes2020/chirpy-starter   
 
 建站参考教程：  
