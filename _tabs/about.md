@@ -4,26 +4,23 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)（临时关闭）   
+## Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)   
 ## Cloudflare部署域名：[ghostdavid.page.dev](https://ghostdavid.page.dev)   
 ## 个人域名：[ghostdavid.top](https://ghostdavid.top)    
 
 中国大陆优先访问**个人域名**和**Cloudflare域名**
 
-建站参考教程：   
+建站参考教程，注意：**不要直接fork我的项目**：   
 https://github.com/cotes2020/jekyll-theme-chirpy/wiki   
+https://github.com/cotes2020/chirpy-starter   
+https://ghostdavid.pages.dev/categories/%E5%BB%BA%E7%AB%99/   
 https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
-[https://github.com/cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter)   
 
-> ⚠️作者主页： **[ghostdavid.top](https://ghostdavid.top/)**, **[ghostdavid.page.dev](https://ghostdavid.page.dev)**   
 > ⚠️本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**  
 > ⚠️若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者进行删除  
-> ⚠️转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**  
-
+> ⚠️转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**    
 > If you wish to contact me, you can send email to **marl_table67@icloud.com**
 {: .prompt-tip }
-
-
 
 
 ## 心血来潮（2025.3）  
