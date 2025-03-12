@@ -1,10 +1,9 @@
 ---
 title: Jekyll更改网站图标
 date: 2025-03-11 1:00:00 +0800
-categories: [建站]
-tags: [jekyll,建站]
+categories: [Build Website]
+tags: [jekyll,website,icon]
 ---
-
 
 以我的网站为例，采用的是jekyll+github page托管的方式建站
 
