@@ -1,11 +1,9 @@
 ---
 title: Cloudflare R2存储+PicGo免费建立在线图床
 date: 2025-03-11 2:00:00 +0800
-categories: [建站]
-tags: [Cloudflare,建站,PicGo,图床]
+categories: [Build Website]
+tags: [cloudflare,website,picgo]
 ---
-
-
 
 域名注册和托管本文不详述
 
