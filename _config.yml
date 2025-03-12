@@ -26,6 +26,12 @@ description: >- # used by seo meta and the atom feed
 url: "https://ghostdavid.github.io"
 plugins:
   - jekyll-sitemap
+
+sitemap:
+  lastmod: 2014-01-23
+  priority: 0.7
+  changefreq: 'daily'
+  exclude: 'yes'
   
 github:
   username: ghostdavid # change to your github username
