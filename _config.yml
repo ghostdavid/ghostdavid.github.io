@@ -24,14 +24,9 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ghostdavid.github.io"
-plugins:
-  - jekyll-sitemap
-
-sitemap:
-#  lastmod: 2014-01-23
-  priority: 0.7
-  changefreq: 'always'
-  exclude: 'yes'
+url_github: "https://ghostdavid.github.io"
+url_cloudflare: "https://ghostdavid.pages.dev"
+url_personal: "https://ghostdavid.top"
   
 github:
   username: ghostdavid # change to your github username
