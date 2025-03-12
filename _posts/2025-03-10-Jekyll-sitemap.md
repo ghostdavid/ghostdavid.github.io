@@ -1,8 +1,8 @@
 ---
 title: Jekyll自动生成站点地图并提交Google & Bing搜索引擎收录
 date: 2025-03-11 0:00:00 +0800
-categories: [建站]
-tags: [jekyll,建站,站点地图,搜索引擎]
+categories: [Build Website]
+tags: [jekyll,website,sitemap,google,bing]
 ---
 
 以我的网站为例，采用的是jekyll+github page托管的方式建站
