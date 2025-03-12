@@ -8,7 +8,7 @@ sitemap:
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
+      <loc>{{ site.url_github }}{{ post.url }}</loc>
       
     </url>
     {% endunless %}
@@ -16,7 +16,7 @@ sitemap:
   {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" %}
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>
     
     </url>
     {% endunless %}
