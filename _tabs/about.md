@@ -8,19 +8,19 @@ order: 4
 ## Cloudflare部署域名：[ghostdavid.page.dev](https://ghostdavid.page.dev)   
 ## 个人域名：[ghostdavid.top](https://ghostdavid.top)    
 
-中国大陆优先访问**个人域名**和**Cloudflare域名**
+中国大陆优先访问**个人域名**，如果网站打开比较慢，可以换Cloudflare或Github域名试试，并耐心等待加载，有条件最好能挂上梯子🪜
 
 建站参考教程，注意：**不要直接fork我的项目**：   
 https://github.com/cotes2020/jekyll-theme-chirpy/wiki   
 https://github.com/cotes2020/chirpy-starter   
-https://ghostdavid.pages.dev/categories/%E5%BB%BA%E7%AB%99/   
+https://ghostdavid.pages.dev/categories/build-website   
 https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
 
-> ⚠️本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**  
-> ⚠️若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者进行删除  
-> ⚠️转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**    
+> 本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**  
+> 若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者进行删除  
+> 转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**    
 > If you wish to contact me, you can send email to **marl_table67@icloud.com**
-{: .prompt-tip }
+{: .prompt-warning }
 
 
 ## 心血来潮（2025.3）  
@@ -29,7 +29,7 @@ https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-
 
 但在我的日常生活中，我却没有记笔记的习惯。不管是生活经验，亦或是随便折腾有意思的玩意儿，这些事和过程在当时能记得清清楚楚，可一旦时间久了必会慢慢淡忘。所以我就想建立一个公开的笔记平台——独立，没有限制，长期存在——这就是我利用github page建立这个静态网站的目的   
 
-我不确定这次突发奇想建站写文的热情能持续多久，但起码ghostdavid.top这个域名我买了10年持有，起码cloudflare的域名托管目前是免费的，起码大家说github是“永存”的   
+我不确定这次突发奇想建站写文的热情能持续多久，但起码ghostdavid.top这个域名我买了10年持有，起码cloudflare的托管目前是免费的，起码大家说github是“永存”的   
 
-由于Cloudflare的托管服务器在境外，虽然妥妥减速器😂，但好在没被墙。如果网站打开比较慢，需要耐心等待加载，最好能挂上梯子🪜。另外，经实测，境内中国移动的节点几乎无法访问本网站
+
 
