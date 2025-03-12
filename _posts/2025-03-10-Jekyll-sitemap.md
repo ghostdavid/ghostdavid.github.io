@@ -36,7 +36,7 @@ plugins:
 
 ## 3、检查sitemap页面
 
-网站打包完成后，直接在浏览器地址栏输入`https://你的域名/sitemap.xml`，这个页面只能输入网址去看，项目目录里是没有的。以我的网站为例，就是 https://ghostdavid.top/sitemap.xml
+网站打包完成后，直接在浏览器地址栏输入`https://你的域名/sitemap.xml`，这个页面只能输入网址去看，项目目录里是没有的。以我的网站为例，就是 https://ghostdavid.github.io/sitemap.xml
 
 正常的话应该是如下这样：
 
