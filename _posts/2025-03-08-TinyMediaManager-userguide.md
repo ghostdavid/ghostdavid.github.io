@@ -1,8 +1,8 @@
 ---
 title: TinyMediaManager配置指南
 date: 2025-03-08 1:00:00 +0800
-categories: [NAS,docker]
-tags: [NAS,docker,影视,刮削]
+categories: [NAS,Docker]
+tags: [nas,docker,tv,movie]
 ---
 
 一些不重要的设置，本文不做展示和介绍，操作时直接下一步or跳过or默认配置即可
