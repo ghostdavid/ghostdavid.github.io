@@ -1,4 +1,4 @@
-## Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)（临时关闭）   
+## Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)   
 ## Cloudflare部署域名：[ghostdavid.page.dev](https://ghostdavid.page.dev)   
 ## 个人域名：[ghostdavid.top](https://ghostdavid.top)   
 
