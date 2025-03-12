@@ -3,25 +3,29 @@
 icon: fas fa-info-circle
 order: 4
 ---
+## 主页
+**Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)**   
+**Cloudflare部署域名：[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**   
+**个人域名：[ghostdavid.top](https://ghostdavid.top)**      
 
-## Github部署域名：[ghostdavid.github.io](https://ghostdavid.github.io)   
-## Cloudflare部署域名：[ghostdavid.pages.dev](https://ghostdavid.pages.dev)   
-## 个人域名：[ghostdavid.top](https://ghostdavid.top)    
+> - 中国大陆优先访问**个人域名**，如果网站打开比较慢，可以换Cloudflare或Github域名试试，有条件最好能挂上梯子    
+> - 为方便网站管理，本站内容所引用的本站任意页面，默认域名是`ghostdavid.github.io`。如果出现访问不稳定，则可以用Cloudflare或个人域名进行替换
+{: .prompt-info }
 
-中国大陆优先访问**个人域名**，如果网站打开比较慢，可以换Cloudflare或Github域名试试，并耐心等待加载，有条件最好能挂上梯子🪜
-
+## 版权警告
 > - 本站按照 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面的授权都以此条为准**  
 > - 若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者进行删除  
 > - 转载或引用时请遵守许可协议和当地法律法规，注明出处和以上声明，**本站作者拥有最终解释权**    
 > - If you wish to contact me, you can send email to **marl_table67@icloud.com**
 {: .prompt-warning }
 
+## 建站相关
 网站模板：（**用这个模板去创建，千万不要直接fork我的仓库**）    
 https://github.com/cotes2020/chirpy-starter   
 
 建站参考教程：  
+https://ghostdavid.github.io/categories/build-website   
 https://github.com/cotes2020/jekyll-theme-chirpy/wiki   
-https://ghostdavid.pages.dev/categories/build-website   
 https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
 
 
