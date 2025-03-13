@@ -18,13 +18,10 @@ url_personal: "https://ghostdavid.top"
 ```
 ## 新建sitemap-xxx.xml
 
-在项目根目录新建三个sitemap-xxx.xml文件，内容如下（这里以sitemap-github.xml举例）
-
-不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可，注释标记那一行要记得去除    
+在项目根目录新建三个sitemap-xxx.xml文件，内容如下（这里以sitemap-github.xml举例），不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可
 
 ``` xml
-{% raw %}    #这一行是防止代码块被编译的注释标记，使用时要去除
-
+{% raw %}    
 ---
 sitemap:
   exclude: 'yes'
@@ -49,8 +46,7 @@ sitemap:
     {% endunless %}
   {% endfor %}
 </urlset>
-
-{% endraw %}  #这一行是防止代码块被编译的注释标记，使用时要去除
+{% endraw %}  
 ```
 
 ## 自定义参数
