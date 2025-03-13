@@ -9,7 +9,7 @@ Cloudflare Page域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**
 
 ### 域名备份策略
 > - 中国大陆实测访问速度：Cloudflare域名>个人域名>Github域名，如果加载缓慢，建议挂梯子🪜    
-> - 本站任意页面的域名都可以在以上域名之间替换，所以如果其中一个域名无法访问，那么改成其他域名均可访问到相同的内容页面        
+> - 本站任意页面的域名都可以在以上域名之间替换，如果其中一个域名无法访问，那么改成其他域名均可访问到相同的内容页面        
 {: .prompt-info }
 
 ### 版权警告
@@ -37,7 +37,7 @@ https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-
 
 我不确定这份突发奇想建站写文的热情能持续多久，但起码cloudflare目前是免费的，起码大家说github是“永存”的   
 
-个人域名好像白买了，本来是挂在Cloudflare里托管，给Github Page加速，避免被墙。但后来我又部署了Cloudflare Page，结果发现Cloudflare域名托管的访问速度好像还不如Cloudflare Page的。。。
+个人域名好像白买了，本来是想挂在Cloudflare里托管，给Github Page加加速，避免被墙。但后来我又部署了Cloudflare Page，结果发现Cloudflare域名托管的访问速度好像还不如Cloudflare Page的。。。
 
 
 
