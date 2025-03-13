@@ -8,9 +8,8 @@ Cloudflare部署域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)*
 个人域名：**[ghostdavid.top](https://ghostdavid.top)**      
 
 ### 域名备份策略
-> - 中国大陆优先访问个人域名
-> - 由于图片托管在github，如果加载缓慢，建议挂梯子🪜    
-> - 本站任意页面的域名都可以用Github、Cloudflare或个人域名进行替换，所以如果其中有域名无法访问，那么换其他域名均可访问到相同的内容页面      
+> - 中国大陆优先访问个人域名，如果加载缓慢，建议挂梯子🪜    
+> - 本站任意页面的域名都可以用Github、Cloudflare或个人域名进行替换，所以如果其中一个域名无法访问，那么改成其他域名均可访问到相同的内容页面      
 {: .prompt-info }
 
 ### 版权警告
