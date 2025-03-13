@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 自定义程度更高的sitemap生成方式，适合多个域名
 date: 2025-03-13 14:00:00 +0800
 categories: [Build Website]
@@ -23,6 +24,7 @@ url_personal: "https://ghostdavid.top"
 ``` xml
 {% raw %}    
 ---
+layout: null
 sitemap:
   exclude: 'yes'
 ---
@@ -41,7 +43,6 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
     <url>
       <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
     </url>
     {% endunless %}
   {% endfor %}
