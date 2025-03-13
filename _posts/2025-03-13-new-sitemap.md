@@ -18,15 +18,14 @@ url_personal: "https://ghostdavid.top"
 ```
 ## 新建sitemap-xxx.xml
 
-在项目根目录新建三个sitemap-xxx.xml文件，直接输入以下代码（以sitemap-github.xml举例）。不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可
+在项目根目录新建三个sitemap-xxx.xml文件，输入以下代码（以sitemap-github.xml举例，前5行的#要去除，这里是为了防止本网页被重新编译）。不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可
 
-```xml
----   
-layout: null   
-sitemap:   
-  exclude: 'yes'   
----   
-
+```
+#---   
+#layout: null   
+#sitemap:   
+#  exclude: 'yes'   
+#---   
 <?xml version="1.0" encoding="UTF-8"?>   
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">   
   {% for post in site.posts %}   
