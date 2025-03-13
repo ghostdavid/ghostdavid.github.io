@@ -3,13 +3,13 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Github部署域名：**[ghostdavid.github.io](https://ghostdavid.github.io)**   
-Cloudflare部署域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**   
+Github Page域名：**[ghostdavid.github.io](https://ghostdavid.github.io)**   
+Cloudflare Page域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**   
 个人域名：**[ghostdavid.top](https://ghostdavid.top)**      
 
 ### 域名备份策略
-> - 中国大陆优先访问个人域名，如果加载缓慢，建议挂梯子🪜    
-> - 本站任意页面的域名都可以用Github、Cloudflare或个人域名进行替换，所以如果其中一个域名无法访问，那么改成其他域名均可访问到相同的内容页面      
+> - 中国大陆实测访问速度：Cloudflare域名>个人域名>Github域名，如果加载缓慢，建议挂梯子🪜    
+> - 本站任意页面的域名都可以在Github、Cloudflare、个人域名之间替换，所以如果其中一个域名无法访问，那么改成其他域名均可访问到相同的内容页面        
 {: .prompt-info }
 
 ### 版权警告
@@ -24,7 +24,7 @@ Cloudflare部署域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)*
 https://github.com/cotes2020/chirpy-starter   
 
 建站教程：  
-https://ghostdavid.github.io/categories/build-website   
+https://ghostdavid.pages.dev/categories/build-website   
 https://github.com/cotes2020/jekyll-theme-chirpy/wiki   
 https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
 
@@ -35,7 +35,9 @@ https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-
 
 但在我的日常生活中，我却没有记笔记的习惯。一些生活经验或折腾有意思的玩意儿，虽当时印象深刻，但随时间流逝难免遗忘。因此，我决定建立一个公开的笔记平台——独立、无限制、长期存在——这便是利用Github/Cloudflare Pages建站的初衷
 
-我不确定这份突发奇想建站写文的热情能持续多久，但起码ghostdavid.top这个域名我买了10年持有，起码cloudflare目前是免费的，起码大家说github是“永存”的 
+我不确定这份突发奇想建站写文的热情能持续多久，但起码cloudflare目前是免费的，起码大家说github是“永存”的   
+
+个人域名好像白买了，本来是挂在Cloudflare里托管，给Github Page加速，避免被墙。但后来我又部署了Cloudflare Page，结果发现Cloudflare域名托管的访问速度好像还不如Cloudflare Page的。。。
 
 
 
