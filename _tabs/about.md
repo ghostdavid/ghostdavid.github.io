@@ -37,7 +37,7 @@ https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-
 
 我不确定这份突发奇想建站写文的热情能持续多久，但起码cloudflare目前是免费的，起码大家说github是“永存”的   
 
-个人域名好像白买了，本来是想挂在Cloudflare里托管，给Github Page加加速，避免被墙。但后来我又部署了Cloudflare Page，结果发现Cloudflare域名托管的访问速度好像还不如Cloudflare Page的。。。
+个人域名好像白买了，本来是想挂在Cloudflare里托管重定向，给Github Page加加速，避免被墙。但后来我又部署了Cloudflare Page，结果发现个人域名重定向的访问速度好像还不如Cloudflare Page的。。。
 
 
 
