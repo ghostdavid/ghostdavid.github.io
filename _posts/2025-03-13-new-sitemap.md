@@ -11,7 +11,7 @@ tags: [jekyll,website,sitemap]
 
 我的网站有三个域名，我想制作每个域名所对应的网站地图，所以在_config.yml中要设置好三个url变量值，
 
-```
+``` yml
 url_github: "https://ghostdavid.github.io"
 url_cloudflare: "https://ghostdavid.pages.dev"
 url_personal: "https://ghostdavid.top"
@@ -29,25 +29,25 @@ sitemap:
   exclude: 'yes'   
 ---
 
-#<?xml version="1.0" encoding="UTF-8"?>   
-#<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">   
-#  {% for post in site.posts %}   
-#    {% unless post.published == false %}   
-#    <url>   
-#      <loc>{{ site.url_github }}{{ post.url }}</loc>   
-#      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>   
-#    </url>   
-#    {% endunless %}   
-#  {% endfor %}   
-#  {% for page in site.pages %}   
-#    {% unless page.sitemap.exclude == "yes" %}   
-#    <url>   
-#      <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>   
-#      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>   
-#    </url>   
-#    {% endunless %}   
-#  {% endfor %}   
-#</urlset>   
+<?xml version="1.0" encoding="UTF-8"?>   
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">   
+  {% for post in site.posts %}   
+    {% unless post.published == false %}   
+    <url>   
+      <loc>{{ site.url_github }}{{ post.url }}</loc>   
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>   
+    </url>   
+    {% endunless %}   
+  {% endfor %}   
+  {% for page in site.pages %}   
+    {% unless page.sitemap.exclude == "yes" %}   
+    <url>   
+      <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>   
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>   
+    </url>   
+    {% endunless %}   
+  {% endfor %}   
+</urlset>   
 ```
 
 ## 自定义参数
