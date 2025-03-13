@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Jekyll更改网站图标
 date: 2025-03-11 1:00:00 +0800
 categories: [Build Website]
