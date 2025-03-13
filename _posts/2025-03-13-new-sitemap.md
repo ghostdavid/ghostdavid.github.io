@@ -21,31 +21,31 @@ url_personal: "https://ghostdavid.top"
 在项目根目录新建三个sitemap-xxx.xml文件，直接输入以下代码（以sitemap-github.xml举例）。不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可
 
 ```xml
----
-layout: null
-sitemap:
-  exclude: 'yes'
----
+---   
+layout: null   
+sitemap:   
+  exclude: 'yes'   
+---   
 
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  {% for post in site.posts %}
-    {% unless post.published == false %}
-    <url>
-      <loc>{{ site.url_github }}{{ post.url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-    </url>
-    {% endunless %}
-  {% endfor %}
-  {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" %}
-    <url>
-      <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-    </url>
-    {% endunless %}
-  {% endfor %}
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>   
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">   
+  {% for post in site.posts %}   
+    {% unless post.published == false %}   
+    <url>   
+      <loc>{{ site.url_github }}{{ post.url }}</loc>   
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>   
+    </url>   
+    {% endunless %}   
+  {% endfor %}   
+  {% for page in site.pages %}   
+    {% unless page.sitemap.exclude == "yes" %}   
+    <url>   
+      <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>   
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>   
+    </url>   
+    {% endunless %}   
+  {% endfor %}   
+</urlset>   
 ```
 
 ## 自定义参数
