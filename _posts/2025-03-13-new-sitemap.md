@@ -5,7 +5,7 @@ categories: [Build Website]
 tags: [jekyll,website,sitemap]
 ---
 
-我的另一篇文章中(https://ghostdavid.github.io/posts/Jekyll-sitemap) 有介绍以jekyll插件的方式建立sitemap，但那个方式只能建立单个域名的sitemap，无法自定义额外参数，也无法生成在根目录可见的xml文件。所以我在网上搜索后，发现了一个更方便的sitemap生成方式
+我的另一篇文章中(https://ghostdavid.pages.dev/posts/Jekyll-sitemap) 有介绍以jekyll插件的方式建立sitemap，但那个方式只能建立单个域名的sitemap，无法自定义额外参数，也无法生成在根目录可见的xml文件。所以我在网上搜索后，发现了一个更方便的sitemap生成方式
 
 ## 设置url
 
