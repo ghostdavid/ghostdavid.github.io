@@ -15,15 +15,15 @@ tags: [nas,docker,tv,movie]
 
 海报墙
 
-![20250308025024420](https://github.com/user-attachments/assets/99dbc683-ec5c-4a89-9e6f-6f23a5177569)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025024420.png)
 
 电视剧
 
-![20250308025519572](https://github.com/user-attachments/assets/2087a76d-5cfd-49c9-93a6-08129d71911a)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519572.png)
 
 剧集
 
-![20250308025519574](https://github.com/user-attachments/assets/3dc8ea69-85d1-40a7-9d5d-053949286f39)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519574.png)
 
 ### 刮削后文件夹系统展示
 
@@ -31,13 +31,13 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519575](https://github.com/user-attachments/assets/fe98a1d3-877b-4462-bc1c-5aa9b4201b65)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519575.png)
 
 季文件夹
 
 
 
-![20250308025519576](https://github.com/user-attachments/assets/094c4aa8-e39b-40db-880e-98ef638f9ce6)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519576.png)
 
 剧集、nfo、缩略图
 
@@ -45,7 +45,7 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519577](https://github.com/user-attachments/assets/1c1b5a01-2ec7-4c05-8b57-3de0bc030474)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519577.png)
 
 ------
 
@@ -55,7 +55,7 @@ tags: [nas,docker,tv,movie]
 
 这个镜像是专门对中文做了字体优化，避免了UI出现乱码方块字
 
-![20250308025519578](https://github.com/user-attachments/assets/97134b1f-fd4e-41b4-8037-42cd86cb6044)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519578.png)
 
 ### 下载latest或v3.1.16版本
 
@@ -63,7 +63,7 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519579](https://github.com/user-attachments/assets/b2abf094-cbf9-4a8e-be87-ffdf2b121c67)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519579.png)
 
 ### 创建容器
 
@@ -71,7 +71,7 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519580](https://github.com/user-attachments/assets/636785d7-0b28-4807-8849-7780a17ef0d5)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519580.png)
 
 
 
@@ -79,7 +79,7 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519581](https://github.com/user-attachments/assets/8c9ff419-e73c-4181-99a6-512585228511)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519581.png)
 
 
 
@@ -89,7 +89,7 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519582](https://github.com/user-attachments/assets/1dd831d1-1e48-462b-9606-927fe43d66bb)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519582.png)
 
 
 ### 端口
@@ -98,7 +98,7 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519583](https://github.com/user-attachments/assets/36ce1385-cd02-420a-ab12-0b9c8c01a216)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519583.png)
 
 
 
@@ -109,11 +109,11 @@ tags: [nas,docker,tv,movie]
 
 
 
-![20250308025519584](https://github.com/user-attachments/assets/e1a50730-5b9c-4331-a1a6-94c61b742e70)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519584.png)
 
 
 
-![20250308025519585](https://github.com/user-attachments/assets/223af9bd-d725-4d63-93e5-de03fbb8f2a5)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519585.png)
 
 ------
 
@@ -125,7 +125,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519586](https://github.com/user-attachments/assets/cd13cfe7-9706-4a0b-88f9-ff4b1edd388a)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519586.png)
 
 ### 语言设置
 
@@ -133,7 +133,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519587](https://github.com/user-attachments/assets/366b4845-6c21-4817-bcf5-96953ce9d71e)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519587.png)
 
 ### 电影、电视剧源设置
 
@@ -144,21 +144,21 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519588](https://github.com/user-attachments/assets/adcaaaca-221c-4383-a140-fee7c9b85c30)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519588.png)
 
 
 
-![20250308025519589](https://github.com/user-attachments/assets/6cf0a103-7460-4c5c-8131-81c4052a6f69)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519589.png)
 
 
 
-![20250308025519590](https://github.com/user-attachments/assets/67e388c8-9550-4867-ac6e-eed6e0461129)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519590.png)
 
 ### 重启容器
 
 
 
-![20250308025519591](https://github.com/user-attachments/assets/ecd60fdc-5b19-4a0d-bb86-1f46953148b0)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519591.png)
 
 ------
 
@@ -168,7 +168,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519592](https://github.com/user-attachments/assets/c54afbbf-6f92-455a-a13f-aecfb334209a)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519592.png)
 
 
 
@@ -180,7 +180,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519593](https://github.com/user-attachments/assets/265eb17c-1538-4975-919c-21b0e158440b)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519593.png)
 
 
 
@@ -188,7 +188,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 取消勾选图片快取可以加快载入
 
-![20250308025519594](https://github.com/user-attachments/assets/bd2a2e46-f882-451c-9930-dc6eae1ca360)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519594.png)
 
 
 
@@ -202,7 +202,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519595](https://github.com/user-attachments/assets/c2592b8f-dbdd-4e09-8d76-6701586478f1)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519595.png)
 
 
 
@@ -210,7 +210,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519596](https://github.com/user-attachments/assets/79afd6cc-fbed-40a2-b98c-2ca84412c6e4)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519596.png)
 
 
 
@@ -218,7 +218,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519597](https://github.com/user-attachments/assets/25b18b54-3f63-4965-834e-b5d9acf5178b)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519597.png)
 
 
 
@@ -226,7 +226,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519598](https://github.com/user-attachments/assets/a7012f3a-60a3-4227-87ae-f5d9ef8df064)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519598.png)
 
 
 
@@ -234,7 +234,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519599](https://github.com/user-attachments/assets/0ec52bb9-b7bc-4964-8a2d-32fe9b278169)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519599.png)
 
 
 
@@ -242,7 +242,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519600](https://github.com/user-attachments/assets/d8d01adc-494e-4c4a-9ea5-49a4df23a52d)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519600.png)
 
 
 
@@ -254,7 +254,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519601](https://github.com/user-attachments/assets/3ba9603a-573d-4733-ac17-c4e6ee4ff77a)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519601.png)
 
 
 
@@ -270,7 +270,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519602](https://github.com/user-attachments/assets/ec711c12-101f-4da1-8da0-7f53a0b5e6f4)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519602.png)
 
 
 
@@ -280,7 +280,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519603](https://github.com/user-attachments/assets/6b04233a-1346-412d-b438-a73fe5f7977a)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519603.png)
 
 
 
@@ -288,7 +288,7 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519604](https://github.com/user-attachments/assets/29f921da-ed0b-4846-87e2-d7e195322c1e)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519604.png)
 
 
 
@@ -296,4 +296,4 @@ TinyMediaManager每次启动都会提示更新，直接关闭即可。点更新�
 
 
 
-![20250308025519605](https://github.com/user-attachments/assets/5c692d8d-4c4e-49b5-b8a1-193f966af1e0)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308025519605.png)
