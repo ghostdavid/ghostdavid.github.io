@@ -8,7 +8,7 @@ Cloudflare Page域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**
 个人域名：**[ghostdavid.top](https://ghostdavid.top)**      
 
 ### 网站备份策略
-> - 中国大陆实测访问速度：Cloudflare Page>个人域名>>Github Page，如果加载缓慢，建议挂梯子🪜    
+> - 中国大陆实测访问速度：Cloudflare Page>个人域名>Github Page，如果加载缓慢，建议挂梯子🪜    
 > - 本站任意页面的域名都可以在以上域名之间替换，如果其中一个域名无法访问，那么改成其他域名均可访问相同的页面
 {: .prompt-info }
 
