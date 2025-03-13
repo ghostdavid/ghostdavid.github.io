@@ -1,5 +1,5 @@
 ---
-title: 另一种jekyll sitemap生成方式，自定义程度更高，适合多个域名
+title: 自定义程度更高的sitemap生成方式，适合多个域名
 date: 2025-03-13 14:00:00 +0800
 categories: [Build Website]
 tags: [jekyll,website,sitemap]
@@ -23,11 +23,6 @@ url_personal: "https://ghostdavid.top"
 不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可，注意：以下代码前的所有#都要去除，这里有是为了防止本网页被重新编译
 
 ``` xml
----   
-layout: null   
-sitemap:   
-  exclude: 'yes'   
----
 
 <?xml version="1.0" encoding="UTF-8"?>   
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">   
@@ -43,7 +38,6 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}   
     <url>   
       <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>   
-      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>   
     </url>   
     {% endunless %}   
   {% endfor %}   
