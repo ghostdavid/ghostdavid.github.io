@@ -18,31 +18,12 @@ url_personal: "https://ghostdavid.top"
 ```
 ## 新建sitemap-xxx.xml
 
-在项目根目录新建三个sitemap-xxx.xml文件，内容如下（这里以sitemap-github.xml举例）
+> 在项目根目录新建三个sitemap-xxx.xml文件，内容如下（这里以sitemap-github.xml举例），不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可    
+> 因为这些代码加入到文章后，会被自动编译。我没找到解决办法😂，所以只能先截个图，具体代码我放评论区了
+{: .prompt-info }
 
-不同sitemap文件只需更改文件名和文件中的`site.url`的后缀即可，注意：以下代码前的所有#都要去除，这里有是为了防止本网页被重新编译
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/PixPin_2025-03-13_20-58-38.png)
 
-``` xml
-
-<?xml version="1.0" encoding="UTF-8"?>   
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">   
-  {% for post in site.posts %}   
-    {% unless post.published == false %}   
-    <url>   
-      <loc>{{ site.url_github }}{{ post.url }}</loc>   
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>   
-    </url>   
-    {% endunless %}   
-  {% endfor %}   
-  {% for page in site.pages %}   
-    {% unless page.sitemap.exclude == "yes" %}   
-    <url>   
-      <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>   
-    </url>   
-    {% endunless %}   
-  {% endfor %}   
-</urlset>   
-```
 
 ## 自定义参数
 除了<loc>和<lastmod>，还可以增加如下两种参数：
