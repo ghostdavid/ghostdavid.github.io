@@ -13,7 +13,7 @@ tags: [iso,windows,tiny11]
 
 注册登录后，在windows11的分类下找到consumer editions x64版本并下载
 
-![](https://github.com/user-attachments/assets/b21c68ff-675e-4e1d-a99e-5f466bfe60da)   
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430630.png)
 
 ## 下载tiny11builder
 
@@ -21,7 +21,7 @@ tags: [iso,windows,tiny11]
 
 在release页选择最新版本的压缩包下载，下载后解压缩备用
 
-![](https://github.com/user-attachments/assets/9683541e-2322-431e-83fd-d7b8c1a9d2ca)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430632.png)
 
 在仓库主页中可以看到，tiny11builder精简的软件内容，个人推荐普通精简。另外，精简后的镜像将绕过系统初始化时的Microsoft账户登录
 
@@ -61,29 +61,29 @@ WinRE
 
 ### 右键iso文件装载镜像
 
-![](https://github.com/user-attachments/assets/10b838d7-b667-40ad-b21e-9a907cbe890e)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430633.png)
 
 ### 管理员身份运行Windows PowerShell
 
-![](https://github.com/user-attachments/assets/fe15338c-1900-45a0-a5ae-aeeadba9169c)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430634.png)
 
 输入`Set-ExecutionPolicy unrestricted`以解除组策略脚本的运行限制
 
-![](https://github.com/user-attachments/assets/578693be-5a3c-4725-a2ad-f7d30fe1d6cf)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430635.png)
 
 ### 运行精简脚本
 
 下载回来的tiny11builder压缩包里有两个精简脚本，分别对应普通精简和core精简。按需选择，右键使用powershell运行
 
-![](https://github.com/user-attachments/assets/11e57b53-c4f0-4f78-b1d3-517d93ed3d55)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430636.png)
 
 输入iso文件装载的盘符，此处示例是E盘
 
-![](https://github.com/user-attachments/assets/21f0174d-85c5-4458-b403-311056695310)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430637.png)
 
 等待片刻后会显示iso镜像中含有的Windows版本，选择所需的版本（其他版本会被删除），个人建议选专业版就足够了
 
-![](https://github.com/user-attachments/assets/0382dea6-2faf-4d64-876c-028a688661dc)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430638.png)
 
 等待精简过程，不会太久，精简期间建议电脑不要做其他复杂操作，否则会有概率会导致部分精简脚本运行失败或报错
 
@@ -91,11 +91,11 @@ WinRE
 
 随便敲个键，回车退出（一定要做，因为脚本最后一步是清理c盘缓存，路径在C盘根目录的tiny11文件夹）
 
-![](https://github.com/user-attachments/assets/23552e92-c486-4f2e-8f78-1d70b5269630)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430639.png)
 
 精简后的tiny11.iso文件在脚本所在路径下。精简后的iso文件大小并不会比精简前小太多，但系统安装后的C盘会小不少
 
-![](https://github.com/user-attachments/assets/d0be8fd8-077f-40cc-a9a8-97e753d7d950)
+![](https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/20250308124430640.png)
 
 ## 进一步精简（可选，推荐）
 
