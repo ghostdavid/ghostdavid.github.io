@@ -18,7 +18,6 @@ sitemap:
     {% unless page.sitemap.exclude == "yes" %}
     <url>
       <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
     </url>
     {% endunless %}
   {% endfor %}
