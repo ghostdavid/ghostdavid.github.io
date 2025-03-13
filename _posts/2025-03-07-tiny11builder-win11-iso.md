@@ -13,7 +13,7 @@ tags: [iso,windows,tiny11]
 
 注册登录后，在windows11的分类下找到consumer editions x64版本并下载
 
-![](https://tuchuang.ghostdavid.top/20250308124430630.png)
+![](https://github.com/user-attachments/assets/b21c68ff-675e-4e1d-a99e-5f466bfe60da)   
 
 ## 下载tiny11builder
 
