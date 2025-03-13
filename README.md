@@ -8,7 +8,7 @@ Cloudflare部署域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)*
 https://github.com/cotes2020/chirpy-starter   
 
 建站教程：  
-https://ghostdavid.github.io/categories/build-website   
+https://ghostdavid.pages.dev/categories/build-website   
 https://github.com/cotes2020/jekyll-theme-chirpy/wiki     
 https://medium.com/@svenvanginkel/build-a-blog-with-jekyll-chirpy-on-cloudflare-pages-f204bc538af9   
 
