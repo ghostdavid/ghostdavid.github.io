@@ -1,4 +1,5 @@
 ---
+layout: post
 title: TinyMediaManager配置指南
 date: 2025-03-08 1:00:00 +0800
 categories: [NAS,Docker]
