@@ -9,7 +9,7 @@ Cloudflare Page域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**
 
 ### 网站备份策略
 > - 中国大陆实测访问速度：Cloudflare Page>个人域名>Github Page，如果加载缓慢，建议挂梯子🪜    
-> - 本站任意页面的域名都可以在以上域名之间替换，如果其中一个域名无法访问，那么改成其他域名均可访问相同的页面
+> - 本站任意页面的域名都可以在以上域名之间替换，如果其中一个无法访问，那么改成其他域名均可访问相同的页面
 {: .prompt-info }
 
 ### 版权警告
@@ -19,16 +19,12 @@ Cloudflare Page域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**
 > - 如需联系，请发送邮件至 **marl_table67@icloud.com**
 {: .prompt-warning }
 
-### 建站相关
-建站教程：  
-https://ghostdavid.pages.dev/categories/build-website     
-https://github.com/cotes2020/jekyll-theme-chirpy/wiki    
+### 建站教程
+https://ghostdavid.pages.dev/categories/build-website       
+https://github.com/cotes2020/jekyll-theme-chirpy/wiki      
+https://github.com/cotes2020/chirpy-starter （**使用此模板创建，勿直接fork仓库**）  
 
-网站模板：（**请使用此模板创建，勿直接fork仓库**）    
-https://github.com/cotes2020/chirpy-starter   
-
-个人域名：   
-好像白买了，本来是想托管在Cloudflare里重定向，给Github Page加加速，避免被墙。但后来我部署了Cloudflare Page，结果发现个人域名重定向的访问速度好像还不如Cloudflare Page的......
+个人域名好像白买了，本来是想托管在Cloudflare里重定向，给Github Page加加速，避免被墙。但后来我部署了Cloudflare Page，结果发现个人域名重定向的访问速度好像还不如Cloudflare Page的...
 
 ### 心血来潮（2025.3）  
 
