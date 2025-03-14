@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Ghost David # the main title
 
-tagline:欢迎来到我的个人网站🥳<br>如果加载缓慢，建议挂梯子🪜<br>许可协议<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"> <img alt="Static Badge" src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red"> </a>
+tagline:欢迎来到我的个人网站🥳<br>如果加载缓慢，建议挂梯子🪜<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"> <img alt="Static Badge" src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red"> </a>许可协议
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
