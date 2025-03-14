@@ -11,7 +11,7 @@ Cloudflare Page域名：**[ghostdavid.pages.dev](https://ghostdavid.pages.dev)**
 > - 本站任意页面的域名都可以在以上域名之间替换，如果其中一个无法访问，那么改成其他域名均可访问相同的页面
 {: .prompt-info }
 
-### 版权[![](https://licensebuttons.net/i/l/by-nc-sa/transparent/00/00/00/88x31-y.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)   
+### 版权   
 > - 本站内容采用 [![](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-red)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议进行授权，**所有页面均以此为准**      
 > - 若发现本站有任何内容若侵犯了您的合法权益，请及时联系作者删除  
 > - 转载或引用时请遵守许可协议和当地法律法规，注明出处及以上声明，**本站作者保留最终解释权**    
