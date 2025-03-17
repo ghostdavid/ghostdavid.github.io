@@ -12,7 +12,7 @@
 
  - type: telegram
    icon: "fa-brands fa-telegram"   
-   url:  "https://t.me/ghost_david"    
+   url:  'https://t.me/ghost_david'    
 
 #- type: rss
 #  icon: "fas fa-rss"
