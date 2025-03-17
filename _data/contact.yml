@@ -9,11 +9,7 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-
-- type: telegram
-  icon: "fab fa-telegram"   
-  url:  "https://t.me/ghost_david"                  
-
+               
 
 #- type: rss
 #  icon: "fas fa-rss"
