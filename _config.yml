@@ -102,7 +102,7 @@ theme_mode:  # [light | dark]
 cdn:    
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pub-05bbf0f9a3e14287a8e9eafbc6a26a1f.r2.dev/avatar.png
+avatar: https://ghostdavid.pages.dev/assets/img/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
