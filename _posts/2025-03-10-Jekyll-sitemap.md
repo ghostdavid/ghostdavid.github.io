@@ -14,17 +14,17 @@ tags: [jekyll,website,sitemap,google,bing]
 
 在github项目的根目录找到Gemfile文件
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250310231924725.png)
+![](/2025/03/20250310231924725.png)
 
 打开后，在最后直接加上`gem 'jekyll-sitemap'`，保存提交即可
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250310232922869.png)	
+![](/2025/03/20250310232922869.png)	
 
 ## 2、修改_config.yml文件
 
 在根目录找到_config.yml文件
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250310233607864.png)
+![](/2025/03/20250310233607864.png)
 
 加一行如下语句，加在哪里都行，我是加在了url的下面，保存提交即可
 
@@ -33,7 +33,7 @@ plugins:
   - jekyll-sitemap
 ```
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311003711260.png)
+![](/2025/03/20250311003711260.png)
 
 ## 3、检查sitemap页面
 
@@ -41,7 +41,7 @@ plugins:
 
 正常的话应该是如下这样：
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250310234250491.png)
+![](/2025/03/20250310234250491.png)
 
 ## 4、Google Search Console收录
 
@@ -51,13 +51,13 @@ plugins:
 
 所有权验证主要有三种方式，一种是在根目录上传html文件验证，另一种是在html网页中加入标记代码，还有一种是通过DNS服务商验证。只要能确保验证方式长期稳定，那么哪种都行
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250310234748888.png)
+![](/2025/03/20250310234748888.png)
 
 验证通过后，在网站地图中加入前面获得的sitemap网址，然后就是慢慢等待谷歌爬虫即可
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311001927629.png)
+![](/2025/03/20250311001927629.png)
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311002327925.png)
+![](/2025/03/20250311002327925.png)
 
 ## 5、Bing Webmaster Tools收录
 
@@ -67,9 +67,9 @@ plugins:
 
 网站地图也是同样方式提交
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311002721472.png)
+![](/2025/03/20250311002721472.png)
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311002851299.png)
+![](/2025/03/20250311002851299.png)
 
 ## 参考资料：
 
