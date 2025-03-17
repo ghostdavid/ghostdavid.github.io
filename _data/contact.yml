@@ -10,9 +10,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
- - type: telegram
-   icon: 'fab fa-telegram'   # icons powered by <https://fontawesome.com/>
-   url:  'https://t.me/ghost_david'                  
+- type: telegram
+  icon: "fab fa-telegram"   
+  url:  'https://t.me/ghost_david'                  
 
 
 #- type: rss
