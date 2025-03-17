@@ -12,7 +12,7 @@ tags: [jekyll,website,icon]
 
 在项目根目录创建`assets/img/favicons/`文件夹
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311005355172.png)
+![](/2025/03/20250311005355172.png)
 
 ## 生成图标素材
 
@@ -20,21 +20,21 @@ tags: [jekyll,website,icon]
 
 上传你的图标
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311005449008.png)
+![](/2025/03/20250311005449008.png)
 
 上传后可以自定义样式，也可以默认什么都不改，直接拉到最后点击next
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311005343152.png)
+![](/2025/03/20250311005343152.png)
 
 直接下载压缩包
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311005615474.png)
+![](/2025/03/20250311005615474.png)
 
 ## 上传图标素材至项目目录
 
 压缩包解压后，删除site.webmanifest和browserconfig.xml文件，然后把剩余所以文件上传至项目的assets/img/favicons/文件夹，最后等待网站刷新即可
 
-![](https://imgbed-gd.pages.dev/file/2025/03/20250311005925451.png)
+![](/2025/03/20250311005925451.png)
 
 
 
