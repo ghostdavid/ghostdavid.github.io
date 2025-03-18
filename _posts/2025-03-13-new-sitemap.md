@@ -51,9 +51,9 @@ sitemap:
 ```
 
 ## 自定义参数
-除了<loc>和<lastmod>，还可以增加如下两种参数：
-- <changefreq>monthly</changefreq>
-- <priority>0.5</priority>
+除了`<loc>`和`<lastmod>`，还可以增加如下两种参数：
+- `<changefreq>monthly</changefreq>`
+- `<priority>0.5</priority>`
 
 loc 代表网页的网址
 
