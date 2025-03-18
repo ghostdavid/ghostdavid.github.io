@@ -27,11 +27,6 @@ url: "https://ghostdavid.pages.dev"
 url_github: "https://ghostdavid.github.io"
 url_cloudflare: "https://ghostdavid.pages.dev"
 url_personal: "https://ghostdavid.top"
-plugins:
-  - jekyll-sitemap
-
-
-
   
 github:
   username: ghostdavid # change to your github username
