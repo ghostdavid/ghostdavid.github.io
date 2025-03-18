@@ -2,7 +2,7 @@
 layout: post
 title: 自定义程度更高的sitemap生成方式，适合多个域名
 date: 2025-03-13 14:00:00 +0800
-categories: [Build Website]
+categories: [Build Website,Sitemap]
 tags: [jekyll,website,sitemap]
 ---
 
