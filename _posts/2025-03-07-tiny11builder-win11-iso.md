@@ -2,7 +2,7 @@
 layout: post
 title: 使用tiny11builder自制精简win11 iso镜像
 date: 2025-03-07 18:00:00 +0800
-categories: [Windows]
+categories: [Windows,System]
 tags: [iso,windows,tiny11]
 ---
 
