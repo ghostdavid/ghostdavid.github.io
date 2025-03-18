@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cloudflare R2存储+PicGo免费建立在线图床
+title: Cloudflare R2存储桶+PicGo免费建立在线图床
 date: 2025-03-11 2:00:00 +0800
 categories: [Build Website]
 tags: [cloudflare,imgbed,picgo]
@@ -8,10 +8,9 @@ tags: [cloudflare,imgbed,picgo]
 
 域名注册和托管本文不详述
 
-如果想要畅快使用R2存储桶，需要：
-
-- 一个域名
+如果想要畅快使用R2存储桶，你需要：   
 - 一张国际信用卡或paypal账户
+- 一个自己的域名（可选）
 
 ## Cloudflare创建R2存储桶
 
