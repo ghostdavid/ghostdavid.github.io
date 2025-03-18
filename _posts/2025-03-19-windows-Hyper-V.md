@@ -8,14 +8,14 @@ tags: [windows,Hyper-V]
 
 注：由于文章最初发表于CSDN账号，所以转移过来后图片留有水印
 
-# 目的
+## 目的
 在BIOS里已经开启虚拟化的情况下，解决第三方虚拟机软件，比如VMware Workstation Pro，提示CPU未开启虚拟化，无法创建虚拟机的问题
 
-# 打开Windows Powershell
+## 打开Windows Powershell
 
 ![73bf0771f19a4bd29bf16653dc98a274.png](/2025/03/1742315298145_73bf0771f19a4bd29bf16653dc98a274.png)
 
-#  关闭Hyper-V服务
+##  关闭Hyper-V服务
 
  输入命令行`bcdedit /set hypervisorlaunchtype off`
 
@@ -23,7 +23,7 @@ tags: [windows,Hyper-V]
 
  然后重启电脑生效
 
-# 如果要恢复Hyper-V服务
+## 如果要恢复Hyper-V服务
 
  输入命令行`bcdedit / set hypervisorlaunchtype auto`
 
