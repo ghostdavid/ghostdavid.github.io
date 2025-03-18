@@ -23,7 +23,6 @@ tags: [cloudflare,imgbed,backblazec]
 - 一个自己的域名（若不在中国大陆使用，则可选）
 
 
-
 ## 相比于单纯的Cloudflare R2存储桶
 优点
 
@@ -34,3 +33,8 @@ tags: [cloudflare,imgbed,backblazec]
 
 - 如果你有自己的域名，这就不是缺点。如果你没有，理论上是可以用Cloudflare的workers.dev子域，但可惜这个子域在中国大陆是被墙的，无法使用和访问
 
+
+## 针对缺点，可能的解决方式
+后来想到的一个办法是，使用Webp Cloud服务对workers.dev子域进行代理转换，然后使用Webp Cloud提供的域名作为图床url域名。
+
+虽然Webp Cloud是个开源服务，也有一定免费额度，但额度不高，而且是小团队做的，可持续性需自行评估。后续我会针对这个Webp Cloud服务写一篇文章
