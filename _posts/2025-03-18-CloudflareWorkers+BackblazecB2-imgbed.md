@@ -2,7 +2,7 @@
 layout: post
 title: Cloudflare Workers+Backblazec B2私密桶建立无限制图床
 date: 2025-03-18 11:00:00 +0800
-categories: [Build Website]
+categories: [Build Website,Imgbed]
 tags: [cloudflare,imgbed,backblazec]
 ---
 
