@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll sitemap插件生成站点地图并提交Google & Bing搜索引擎收录
 date: 2025-03-11 0:00:00 +0800
-categories: [Build Website]
+categories: [Build Website,Sitemap]
 tags: [jekyll,website,sitemap,google,bing]
 ---
 
