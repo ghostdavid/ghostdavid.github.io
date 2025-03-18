@@ -1,12 +1,14 @@
 ---
 layout: post
-title: windows免费下载安装“来自设备制造商的 HEVC 视频扩展”
+title: Windows免费下载安装“来自设备制造商的 HEVC 视频扩展”
 date: 2025-03-18 23:00:00 +0800
 categories: [Windows,Software]
 tags: [windows,HEVC]
 ---
 
 注：由于文章最初发表于CSDN账号，所以转移过来后图片留有水印
+
+------
 
 打开这个网站：[store.rg-adguard.net](https://store.rg-adguard.net)
 
