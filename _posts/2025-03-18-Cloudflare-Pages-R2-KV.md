@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 终极图床方案：Cloudflare Pages+R2+KV，无需域名和picgo，web端上传和图库管理，可防盗链刷量
-date: 2025-03-18 18:00:00 +0800
+date: 2025-03-18 17:00:00 +0800
 categories: [Build Website,Imgbed]
 tags: [cloudflare,imgbed,github]
 ---
