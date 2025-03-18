@@ -24,7 +24,7 @@
 {% unless page.sitemap.exclude == "yes" %}
   <url>
       <loc>{{ site.url_github }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
       <priority>0.64</priority>
   </url>
 {% endunless %}
