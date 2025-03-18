@@ -8,7 +8,7 @@ tags: [windows,HEVC]
 
 注：由于文章最初发表于CSDN账号，所以转移过来后图片留有水印
 
-打开这个网站：[store.rg-adguard.net](store.rg-adguard.net)
+打开这个网站：[store.rg-adguard.net](https://store.rg-adguard.net)
 
 下拉菜单选择ProductId，输入9n4wgh0z6vhq，点击打勾
 
