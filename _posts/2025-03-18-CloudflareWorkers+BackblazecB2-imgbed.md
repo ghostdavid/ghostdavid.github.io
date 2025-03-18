@@ -10,7 +10,7 @@ tags: [cloudflare,imgbed,backblazec]
 
 ## 详细教程见这篇文章
 
-https://blog.standat42.com/posts/image-hosting-backblaze-b2-private-cloudflare-workers-picgo
+[https://blog.standat42.com/posts/image-hosting-backblaze-b2-private-cloudflare-workers-picgo](https://blog.standat42.com/posts/image-hosting-backblaze-b2-private-cloudflare-workers-picgo)
 
 这位作者将过程写的非常清楚，我按他的教程做了一遍，流程没问题，跑的通，这边我简单说一下优缺点
 
