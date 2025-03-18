@@ -16,7 +16,7 @@ tags: [jekyll,website,icon]
 
 ## 生成图标素材
 
-打开网站：https://realfavicongenerator.net/
+打开网站：[https://realfavicongenerator.net/](https://realfavicongenerator.net/)
 
 上传你的图标
 
@@ -44,7 +44,7 @@ tags: [jekyll,website,icon]
 
 ## 参考资料：
 
-https://chirpy.cotes.page/posts/customize-the-favicon/
+[https://chirpy.cotes.page/posts/customize-the-favicon/](https://chirpy.cotes.page/posts/customize-the-favicon/)
 
 
 
