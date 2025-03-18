@@ -23,7 +23,7 @@ https://ghostdavid.pages.dev/categories/build-website
 https://github.com/cotes2020/jekyll-theme-chirpy/wiki      
 https://github.com/cotes2020/chirpy-starter （**使用此模板创建，勿直接fork仓库**）  
 
-个人域名好像白买了，本来是想托管在Cloudflare里重定向，给Github Page加加速，避免被墙。但后来我部署了Cloudflare Page，结果发现个人域名重定向的访问速度好像还不如Cloudflare Page的...
+个人域名好像白买了，本来是想托管在Cloudflare里重定向，给Github Page加加速，避免被墙。但后来我部署了Cloudflare Page，结果发现个人域名重定向的访问速度好像还不如pages.dev子域的...
 
 ### 心血来潮（2025.3）  
 
