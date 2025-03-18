@@ -13,6 +13,11 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: Telegram
+  icon: "fab fa-telegram"
+  url: 'https://t.me/ghost_david'
+  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
