@@ -6,7 +6,7 @@ categories: [Build Website]
 tags: [jekyll,website,sitemap]
 ---
 
-我的另一篇文章中(https://ghostdavid.pages.dev/posts/Jekyll-sitemap) 有介绍以jekyll插件的方式建立sitemap，但那个方式只能建立单个域名的sitemap，无法自定义额外参数，也无法生成在根目录可见的xml文件。所以我在网上搜索后，发现了一个更方便的sitemap生成方式
+我的[另一篇文章](https://ghostdavid.pages.dev/posts/Jekyll-sitemap) 中有介绍以jekyll插件的方式建立sitemap，但那个方式只能建立单个域名的sitemap，无法自定义额外参数，也无法生成在根目录可见的xml文件。所以我在网上搜索后，发现了一个更方便的sitemap生成方式
 
 ## 设置url
 
@@ -87,6 +87,6 @@ priority 代表此网址相对于您网站上的其他网址的优先级，有�
 
 ## 参考资料
 
-https://blog.poychang.net/generating-sitemap-in-jekyll-without-plugin/
+[https://blog.poychang.net/generating-sitemap-in-jekyll-without-plugin/](https://blog.poychang.net/generating-sitemap-in-jekyll-without-plugin/)
 
-https://blog.17study.com.cn/2017/12/29/sitemap_of_jekyll/
+[https://blog.17study.com.cn/2017/12/29/sitemap_of_jekyll/](https://blog.17study.com.cn/2017/12/29/sitemap_of_jekyll/)
