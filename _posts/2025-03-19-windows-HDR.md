@@ -53,8 +53,7 @@ tags: [windows,HDR]
 
 ## 安装HEVC视频扩展
 
-下载和安装过程可以参考我的另外一篇文章：
-[https://blog.csdn.net/weixin_63749061/article/details/141752295](https://blog.csdn.net/weixin_63749061/article/details/141752295)
+下载和安装过程可以参考我的[另外一篇文章](https://ghostdavid.pages.dev/posts/windows-HEVC/)
 
 ![9b57d3c6045d46a9b2b6512502daf365.png](/2025/03/1742313549316_9b57d3c6045d46a9b2b6512502daf365.png)
 
