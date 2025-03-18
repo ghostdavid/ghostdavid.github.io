@@ -2,7 +2,7 @@
 layout: post
 title: Cloudflare R2存储桶+PicGo免费建立在线图床
 date: 2025-03-11 2:00:00 +0800
-categories: [Build Website]
+categories: [Build Website,Imgbed]
 tags: [cloudflare,imgbed,picgo]
 ---
 
