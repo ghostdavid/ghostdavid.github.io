@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://ghostdavid.pages.dev/sitemap-cloudflare.xml
-Sitemap: https://ghostdavid.github.io/sitemap-github.xml
-Sitemap: https://ghostdavid.top/sitemap-personal.xml
+Sitemap: https://ghostdavid.pages.dev/sitemap/sitemap-cf.xml
+Sitemap: https://ghostdavid.github.io/sitemap/sitemap-gh.xml
+Sitemap: https://ghostdavid.top/sitemap/sitemap-top.xml
