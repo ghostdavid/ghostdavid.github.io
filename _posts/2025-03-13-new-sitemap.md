@@ -86,13 +86,7 @@ priority 代表此网址相对于您网站上的其他网址的优先级，有�
 
 ## 保存提交
 
-等待部署完成，就能生成不同域名的sitemap地址，比如我的网站站点地图：
-
-- https://ghostdavid.github.io/sitemap-github.xml
-- https://ghostdavid.pages.dev/sitemap-cloudflare.xml
-- https://ghostdavid.top/sitemap-personal.xml
-
-将以上地址分别提交至Bing和Google对应域名下的站点地图即可
+等待部署完成，就能生成不同域名的sitemap地址，将地址分别提交至Bing和Google对应域名下的站点地图即可
 
 
 
