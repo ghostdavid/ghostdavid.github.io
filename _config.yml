@@ -24,9 +24,9 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ghostdavid.pages.dev"
-url_github: "https://ghostdavid.github.io"
-url_cloudflare: "https://ghostdavid.pages.dev"
-url_personal: "https://ghostdavid.top"
+url_gh: "https://ghostdavid.github.io"
+url_cf: "https://ghostdavid.pages.dev"
+url_top: "https://ghostdavid.top"
   
 github:
   username: ghostdavid # change to your github username
