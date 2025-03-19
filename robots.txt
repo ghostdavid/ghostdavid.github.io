@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://ghostdavid.pages.dev/sitemap/sitemap-cf.xml
 Sitemap: https://ghostdavid.github.io/sitemap/sitemap-gh.xml
 Sitemap: https://ghostdavid.top/sitemap/sitemap-top.xml
+
+Sitemap: https://ghostdavid.pages.dev/sitemap.xml
+Sitemap: https://ghostdavid.github.io/sitemap.xml
+Sitemap: https://ghostdavid.top/sitemap.xml
