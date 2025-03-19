@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://ghostdavid.github.io/sitemap-github.xml</loc>
+    <loc>https://ghostdavid.github.io/sitemap/sitemap-gh.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://ghostdavid.pages.dev/sitemap-cloudflare.xml</loc>
+    <loc>https://ghostdavid.pages.dev/sitemap/sitemap-cf.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://ghostdavid.top/sitemap-personal.xml</loc>
+    <loc>https://ghostdavid.top/sitemap/sitemap-top.xml</loc>
   </sitemap>
 </sitemapindex>
